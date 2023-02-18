@@ -1,5 +1,5 @@
 # stock-tracking
- Stok takibi için ürün ekleme, çıkarma, listeleme ve silme
+ Adding, removing, listing and deleting products for stock tracking
 <h1> Python version </h1>
 Python 3.10.7
 <h2>stock-tracking</h2>
